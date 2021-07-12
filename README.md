@@ -324,7 +324,7 @@ You can ask questions of interest either in the [Issue](https://github.com/surfs
 
 ## Thanks  
 
-Many thanks to the entire **Surf team** for their contribution to the development of the repository!  
+Many thanks to the entire **Surf team** for their contribution to the development of the repository!!!
 
 ## License
 
